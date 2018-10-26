@@ -1,0 +1,8 @@
+form{
+    font:14px/1.4"Helvetica", Helvetica, Arial, sans-serif;
+    width:500px;
+}
+fieldset{
+     border: 3px solid pink;
+     border-radius:5px;
+}
